@@ -58,7 +58,6 @@ export class HorizonComponent implements OnInit {
       ctx.lineCap = "round";
       //rotate
       ctx.rotate(rotate); 
-      console.log('r', radius*0.1, radius*0.4);
       ctx.translate(0, translate);
       // below
       ctx.moveTo(-radius*0.2, radius*0.1);
