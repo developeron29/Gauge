@@ -17,4 +17,4 @@ node index.js
 
 Open `http://localhost:8080` on preferred browser
 
-![Flight Gauge](fligt_gauges.gif)
+![Flight Gauge](flight_gauges.gif)
