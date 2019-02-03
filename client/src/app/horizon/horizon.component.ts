@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { WebsockServiceService } from '../service/websock-service.service';
-import { transformAll } from '@angular/compiler/src/render3/r3_ast';
 
 @Component({
   selector: 'app-horizon',
